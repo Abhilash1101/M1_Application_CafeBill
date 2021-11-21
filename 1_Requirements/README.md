@@ -5,6 +5,12 @@ The Simple Online Food Ordering System has the admin side and customer side. The
 
 ## Research
 A restaurant/cafe management system (RMS) is an essential tool for any new restaurant. These systems are designed to keep your restaurant running by tracking employees, inventory and sales. A typical RMS setup usually includes both software and hardware, such as a cash register, barcode scanner and receipt printer, depending on how your restaurant is organized. Most importantly, an RMS is a comprehensive tool that allows you to see your restaurant and its needs at a glance, which can simplify your workload on a day-to-day basis.
+
+![us-share](https://user-images.githubusercontent.com/94161066/142757258-f9bd67a4-5b2f-4083-aa30-b697150f1328.png) 
+Ref -: https://financesonline.com/what-is-restaurant-management-system-analysis-of-features-benefits-pricing
+
+Share of US people that order food online from a local cafes/restaurant during covid time 2020-21, by area wise.
+
 # Cost and Features
 ------------------------------------------
 ## Cost 
