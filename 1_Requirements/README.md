@@ -17,6 +17,7 @@ Share of US people that order food online from a local cafes/restaurant during c
 - The cafe management system will help you in ways more than one, and while it will reduce your dependency on manual labour by automating the entire restaurant operations, it will also help you analyse the reasons that might be increasing your food costs unnecessarily. 
 
 ## Features
+- A simple consoled based Restaurant Food Ordering System.
 -	Login for admin/customer.
 -	Show all available menu.
 -	Admin can add or delete a food or drink.
@@ -33,11 +34,12 @@ Share of US people that order food online from a local cafes/restaurant during c
 ## Strength
 - Easy accessibility.
 - Easy to use and low cost.
+- Different Menu List.
 ## Weakness
 - Security issue, user data may leak.
 - It doesn’t have payment method option 
 ## Opportunities
--	Advanced design can be implemented in future.
+-	It can be expanded by adding additional features like Search Food by Hotel or Nearby Restaurants, Sort w.r.t Name, Amount, Restaurants, etc.
 -	In future, we may be having local café/restaurant app with all features. 
 ## Threats
 - Security concerns.
