@@ -77,3 +77,14 @@ How : It work on very simple login; it takes name and then it will show menu the
 | LLR-2| User id- It should connect with personal id | Future |
 | LLR-3 | Separate web/app - Café specific website can be made | Future |
 
+# Architectures : 
+----------
+## High Level Design
+----------
+![high level dia](https://user-images.githubusercontent.com/94161066/143216022-29616267-28d1-4b52-bbe0-e0abe2fe701b.png)
+
+## Low Level Design
+--------
+![low level dia](https://user-images.githubusercontent.com/94161066/143216674-82652551-b254-4de8-b24c-8236083c2652.png)
+
+
