@@ -13,6 +13,13 @@
 ## C-BUILD
 [![C/C++ CI](https://github.com/Abhilash1101/M1_Application_CafeBill/actions/workflows/C-build.yml/badge.svg)](https://github.com/Abhilash1101/M1_Application_CafeBill/actions/workflows/C-build.yml)
 
+## CODE QUALITY SCORE
+
+https://api.codiga.io/project/30058/score/svg
+
+## CODE GRADE 
+https://api.codiga.io/project/30058/status/svg
+
 
  # FOLDER STRUCTURE  :-
   
